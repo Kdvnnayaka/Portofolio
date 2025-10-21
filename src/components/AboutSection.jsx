@@ -12,10 +12,10 @@ export const AboutSection = () => {
             <div className="space-y-6">
                <h3 className="text-2xl font-semibold"> Computer Science Graduate specializing in Network Technology and Security </h3>
                <p className="text-muted-foreground">
-                 I’m passionate about building reliable networks, securing systems from modern threats, and exploring how AI can improve performance and automation. My experience includes system design, cloud technologies, and machine learning projects focused on creating scalable and efficient solutions.
+                 I love the challenge of designing rock-solid networks and ensuring system security against current attacks. My experience is rooted in practical network architecture, including deep work with cloud technologies, to create solutions that are both efficient and easily scaled. I leverage my on-the-side knowledge of AI and automation to enhance network efficiency where applicable.
                </p>
                <p className="text-muted-foreground">
-                  I value collaboration, clear documentation, and continuous learning to ensure every project is both innovative and dependable.
+                 My goal is to translate these values into robust, well-understood network solutions that consistently exceed expectations.
                </p>
                <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center"> 
                   <a href="#contact" className="cosmic-button">
