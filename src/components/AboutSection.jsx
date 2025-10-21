@@ -47,7 +47,7 @@ export const AboutSection = () => {
                         <Cloud className="h-6 w-6 text-primary"/>
                          </div>
                          <div className="text-left">
-                           <h4 className="font-semibold text-lg">Network Technology</h4>
+                           <h4 className="font-semibold text-lg">Cloud Computing</h4>
                            <p>
                               Designing flexible and scalable cloud solutions to support modern applications
                            </p>
