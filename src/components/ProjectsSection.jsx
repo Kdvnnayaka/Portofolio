@@ -26,7 +26,7 @@ const projects = [
         image: "/projects/HeartDiseasePrediction.png",
         tags: ["Machine Learning", "Jupyter", "CSS"],
         demoUrl: "#",
-        githubUrl: "#",
+        githubUrl: "https://github.com/Kdvnnayaka/Network_Design-_Routing",
     },
 ];
 
