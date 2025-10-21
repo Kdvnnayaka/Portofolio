@@ -23,6 +23,7 @@ const skills = [
   { name: "Bash Scripting", level: 70, category: "Software Dev" },
   { name: "JavaScript", level: 65, category: "Software Dev" },
   { name: "C", level: 65, category: "Software Dev" },
+  { name: "React", level: 75, category: "Software Dev" },
 
   // Machine Learning (Basic)
   { name: "Scikit-learn", level: 80, category: "Machine Learning" },
